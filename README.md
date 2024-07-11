@@ -1,4 +1,4 @@
-A Speech Enhancement Model that employs deep learning techniques to create a model that enhances speech quality in audio. The system reduces background noise, improves clarity, and increases intelligibility.
+A Speech Enhancement Model that employs U-Net as a DL model that enhances speech quality in audio. The system reduces background noise, improves clarity, and increases intelligibility.
 
 ## Technologies Used
  - Python
