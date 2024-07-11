@@ -52,10 +52,10 @@ Follow these steps to set up and run your project.
 
 ## Training
 
-![train](/img/projects/train-audio.png)
+![train](test_audios/train-audio.png)
 
 ## Inference
-![Infer](/img/projects/inference-audio.png)
+![Infer](test_audios/inference-audio.png)
 
 ## Samples
 
